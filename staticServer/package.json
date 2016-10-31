@@ -1,0 +1,19 @@
+{
+  "name": "statics",
+  "version": "1.0.0",
+  "description": "**实现了静态服务器的基本功能,有啥问题欢迎指出",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "dong",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
